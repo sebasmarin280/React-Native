@@ -22,7 +22,7 @@ ejecute el comando <pre>expo start</pre> Este le abrira una ventana en su navega
 
 # Construido con 
 
-React-native
+React-native<br>
 firebase
 
 
