@@ -18,7 +18,7 @@ Ejecutar <pre>npm install</pre> en el directorio donde se encuentra el proyecto.
 
 # Corriendo pruebas 
 
-ejecute el comando <pre>expo start</pre> a continuacion se le abrira una ventana en el navegador, darle click a la opcion run android device/emulator para correr la app en su emulador.
+ejecute el comando <pre>expo start</pre> a continuacion le abrira una pestaña en el navegador, darle click a la opcion run android device/emulator para correr la app en su emulador.
 
 # Construido con 
 
