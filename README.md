@@ -7,7 +7,7 @@ Siga estas instrucciones para ejecutar el proyecto en local
 
 # Prerequisitos
 
-Expo 
+Expo <br>
 Node.js
 Android studios
 Genymotion(opcional emulador)
