@@ -1,0 +1,10 @@
+{
+  "webpackServerPort": null,
+  "expoServerNgrokUrl": "https://ty-46p.anonymous.app-react.exp.direct",
+  "packagerNgrokUrl": "https://packager.ty-46p.anonymous.app-react.exp.direct",
+  "ngrokPid": 9300,
+  "expoServerPort": 19000,
+  "devToolsPort": 19002,
+  "packagerPort": 19001,
+  "packagerPid": 11600
+}
