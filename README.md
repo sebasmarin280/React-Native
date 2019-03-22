@@ -1,11 +1,11 @@
 # Curso-React-Native
-Un app que lista restaurantes permite agregarles un nombre , descripcion, direccion y darles una puntuacion y una opinion. para hacerlo hay un sistema en el cual podemos loguearnos y crear nuestra cuenta con correo o facebook e iniciar sesion.
+la app lista restaurantes y permite agregarles nombre, descripcion, direccion, darles una puntuacion y generar una opinion del mismo. Para hacerlo se desarrollo un sistema en el cual podemos loguearnos y crear nuestra cuenta ya sea con correo o facebook y asi poder iniciar sesion.
 
-# Getting Started
+# Para empezar
 
-Siga estas instrucciones para ejecutar el proyecto en local
+Siga las siguientes instrucciones para ejecutar el proyecto en local.
 
-# Prerequisitos
+# Pre-requisitos
 
 Expo <br>
 Node.js<br>
@@ -14,11 +14,11 @@ Genymotion(opcional emulador)
 
 # Instalacion
 
-Ejecutar <pre>npm install</pre> en el directorio del proyecto
+Ejecutar <pre>npm install</pre> en el directorio donde se encuentra el proyecto.
 
 # Corriendo pruebas 
 
-ejecute el comando <pre>expo start</pre> Este le abrira una ventana en su navegador, a continuacion darle click a la opcion run android device/emulator para correr la app en su emulador
+ejecute el comando <pre>expo start</pre> a continuacion se le abrira una ventana en el navegador, darle click a la opcion run android device/emulator para correr la app en su emulador.
 
 # Construido con 
 
