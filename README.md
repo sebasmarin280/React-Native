@@ -1,5 +1,5 @@
 # Curso-React-Native
-la app lista restaurantes y permite agregarles nombre, descripcion, direccion, darles una puntuacion y generar una opinion del mismo. Para hacerlo se desarrollo un sistema en el cual podemos loguearnos y crear nuestra cuenta ya sea con correo o facebook y asi poder iniciar sesion.
+la app lista restaurantes y permite agregarles nombre, descripcion, direccion, darles una puntuacion y generar una opinion del mismo. tambien tiene un sistema de logueo y registro mediante formulario para crear cuentas de usuario.
 
 # Para empezar
 
